@@ -1,4 +1,4 @@
-# Updated_TweepFake_dataset
+# Enhanced TweepFake dataset
 TweepFake dataset (but updated in 2023)
 
 This dataset is based on the TweepFake dataset, a Twitter deepfake text dataset created by Fagni et al. For more information about the dataset by Fagni et al, we refer the reader to their [paper](https://arxiv.org/abs/2008.00036). 
