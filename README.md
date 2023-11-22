@@ -14,7 +14,7 @@ Department of Computing and Information Systems
 Sunway University  
 Sunway City, Selangor, Malaysia  
 
-**[Link to Published Paper with IEEE](https://ieeexplore.ieee.org/abstract/document/10295100)**
+**[Link to Published Paper in IEEE](https://ieeexplore.ieee.org/abstract/document/10295100)**
 
 ---
 ## Contents
