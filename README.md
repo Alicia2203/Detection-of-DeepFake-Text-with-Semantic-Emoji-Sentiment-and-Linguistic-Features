@@ -1,6 +1,6 @@
 # Bot or Human? Detection of DeepFake Test with Semantic, Emoji, Sentiment and Linguistic Features 
 ---
-A Final Year Capstone Reseach Project 
+**A Final Year Capstone Reseach Project** 
 
 **Author:** 
 1. Alicia Chong Tsui Ying - [alicia.chong.data@gmail.com](mailto:alicia.chong.data@gmail.com)
@@ -9,16 +9,17 @@ A Final Year Capstone Reseach Project
 1. Hui Na Chua - [huinac@sunway.edu.my](mailto:huinac@sunway.edu.my)
 2. Muhammed Basheer Jasser - [basheerj@sunway.edu.my](mailto:basheerj@sunway.edu.my)
 3. Richard T. K. Wong [richardwtk@sunway.edu.my](mailto:richardwtk@sunway.edu.my)
-
-**Department of Computing and Information Systems**  
-**Sunway University**  
-**Sunway City, Selangor, Malaysia**  
+  
+Department of Computing and Information Systems  
+Sunway University  
+Sunway City, Selangor, Malaysia  
 
 **[Link to Published Paper with IEEE](https://ieeexplore.ieee.org/abstract/document/10295100)**
 
 ---
-[Abstract](#Abstract)
-[Enhanced TweepFake Dataset](Dataset)
+## Contents
+1. [Abstract](#Abstract)  
+2. [Enhanced TweepFake Dataset](Dataset)  
 
 ---
 ## Abstract <a name="Abstract"></a> 
