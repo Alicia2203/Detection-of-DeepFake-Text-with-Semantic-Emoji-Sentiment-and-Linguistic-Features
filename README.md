@@ -1,6 +1,6 @@
-# 🤖 Bot or 👩🏻‍💻 Human? Detection of DeepFake Text with Semantic, Emoji, Sentiment and Linguistic Features 
+# Bot or Human? Detection of DeepFake Text with Semantic, Emoji, Sentiment and Linguistic Features 
 ---
-**A Final Year Capstone Research Project** 
+**A Final Year Capstone Research Project** 🤖 👩🏻‍💻
 
 **Project Overview**
 Developed a classifier to distinguish between machine-generated text (MGT), also known as deepfake text, and human-written text (HWT) on Twitter. 
