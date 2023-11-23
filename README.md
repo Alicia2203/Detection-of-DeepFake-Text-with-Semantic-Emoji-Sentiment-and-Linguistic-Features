@@ -7,8 +7,7 @@ Developed a classifier to distinguish between machine-generated text (MGT), also
 Fine-tuned a pre-trained transformer model, BERT, and integrated it with emoji and linguistic features to construct a comprehensive feature vector for robust classificaiton. 
 Achieved an impressive accuracy rate of 88.3% and identified distinct characteristics of MGT, contributing to the field of machine-generated text detection on social media platforms.
 
-**Author:** 
-1. Alicia Chong Tsui Ying - [alicia.chong.data@gmail.com](mailto:alicia.chong.data@gmail.com)
+**Author:** Alicia Chong Tsui Ying - [alicia.chong.data@gmail.com](mailto:alicia.chong.data@gmail.com)
 
 **Supervisors:** 
 1. Hui Na Chua - [huinac@sunway.edu.my](mailto:huinac@sunway.edu.my)
