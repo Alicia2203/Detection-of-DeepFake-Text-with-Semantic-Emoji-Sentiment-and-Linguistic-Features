@@ -1,4 +1,4 @@
-# Bot or Human? Detection of DeepFake Text with Semantic, Emoji, Sentiment and Linguistic Features 
+# 🤖 Bot or 👩🏻‍💻 Human? Detection of DeepFake Text with Semantic, Emoji, Sentiment and Linguistic Features 
 ---
 **A Final Year Capstone Research Project** 
 
