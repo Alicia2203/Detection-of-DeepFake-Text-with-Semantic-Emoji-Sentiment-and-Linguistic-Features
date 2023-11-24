@@ -18,9 +18,9 @@ Department of Computing and Information Systems
 Sunway University  
 Sunway City, Selangor, Malaysia  
 
-**[Link to Published Paper in IEEE](https://ieeexplore.ieee.org/abstract/document/10295100)**
+- **[Link to Published Paper in IEEE](https://ieeexplore.ieee.org/abstract/document/10295100)**
+- **[Link to Presentation Slides](https://github.com/Alicia2203/Detection-of-DeepFake-Text-with-Semantic-Emoji-Sentiment-and-Linguistic-Features/files/13456954/Capstone.Project.Viva.Presentation.Slides.-.shorter.pdf)**
 
-**[Link to Presentation Slides](https://github.com/Alicia2203/Detection-of-DeepFake-Text-with-Semantic-Emoji-Sentiment-and-Linguistic-Features/files/13456954/Capstone.Project.Viva.Presentation.Slides.-.shorter.pdf)**
 ---
 ## Contents
 1. [Abstract](#Abstract)  
