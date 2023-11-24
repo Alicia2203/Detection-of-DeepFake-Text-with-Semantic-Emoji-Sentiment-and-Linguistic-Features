@@ -1,8 +1,8 @@
 # Bot or Human? Detection of DeepFake Text with Semantic, Emoji, Sentiment and Linguistic Features 
 ---
-**A Final Year Capstone Research Project** 🤖 👩🏻‍💻
+### **A Final Year Capstone Research Project** 🤖 👩🏻‍💻
 
-**Project Overview**
+## **Project Overview**
 Developed a classifier to distinguish between machine-generated text (MGT), also known as deepfake text, and human-written text (HWT) on Twitter. 
 Fine-tuned a pre-trained transformer model, BERT, and integrated it with emoji and linguistic features to construct a comprehensive feature vector for robust classificaiton. 
 Achieved an impressive accuracy rate of 88.3% and identified distinct characteristics of MGT, contributing to the field of machine-generated text detection on social media platforms.
