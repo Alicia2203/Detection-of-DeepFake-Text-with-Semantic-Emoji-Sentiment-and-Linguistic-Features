@@ -14,9 +14,7 @@ Achieved an impressive accuracy rate of 88.3% and identified distinct characteri
 2. Muhammed Basheer Jasser - [basheerj@sunway.edu.my](mailto:basheerj@sunway.edu.my)
 3. Richard T. K. Wong [richardwtk@sunway.edu.my](mailto:richardwtk@sunway.edu.my)
   
-Department of Computing and Information Systems  
-Sunway University  
-Sunway City, Selangor, Malaysia  
+**Institution:** Department of Computing and Information Systems, Sunway University, Malaysia  
 
 - **[Link to Published Paper in IEEE](https://ieeexplore.ieee.org/abstract/document/10295100)**
 - **[Link to Presentation Slides](https://github.com/Alicia2203/Detection-of-DeepFake-Text-with-Semantic-Emoji-Sentiment-and-Linguistic-Features/files/13456954/Capstone.Project.Viva.Presentation.Slides.-.shorter.pdf)**
