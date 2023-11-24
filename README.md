@@ -20,6 +20,8 @@ Sunway City, Selangor, Malaysia
 
 **[Link to Published Paper in IEEE](https://ieeexplore.ieee.org/abstract/document/10295100)**
 
+Presentation Slides
+
 ---
 ## Contents
 1. [Abstract](#Abstract)  
@@ -29,6 +31,11 @@ Sunway City, Selangor, Malaysia
 ## Abstract <a name="Abstract"></a> 
 Detecting machine-generated text (MGT), also known as Deepfake text, has become increasingly important in Artificial Intelligence (AI) age and social media platforms. With the proliferation of MGT and the potential consequences of its dissemination, there is a pressing need to develop effective methods for distinguishing between MGT and human-written text (HWT). Our research aim has two-fold: firstly, to examine the inherent differences between MGT and HWT on Twitter, and secondly, to develop a classifier specifically designed for MGT detection on the platform. This classifier utilizes contextualized text embeddings as its foundation while considering additional linguistic features, sentiment features, and emoji embeddings. Our experimental results demonstrate that incorporating additional features enhances the model's ability to detect MGT. Combining fine-tuned BERT embeddings with emoji and linguistic features using a multi-layer perceptron classifier achieves the highest accuracy rate of 88.3%. Our analysis reveals distinct characteristics of MGT compared to HWT, including differences in engagement behavior, linguistic patterns, named entities, sentiment expressions, and text perplexity. Our research contributes to the field of MGT detection by offering a comprehensive approach that combines semantic text embeddings with supplementary features. The proposed model provides a significant step forward in addressing the challenge of Deepfake text detection.
 
+**Model Schema**
+![Model Shema 2](https://github.com/Alicia2203/Detection-of-DeepFake-Text-with-Semantic-Emoji-Sentiment-and-Linguistic-Features/assets/69787181/3024d47b-01ab-4201-a111-7c43a8495c42)
+
+**Presentation Slides**
+[Viva Presentation Slides](https://github.com/Alicia2203/Detection-of-DeepFake-Text-with-Semantic-Emoji-Sentiment-and-Linguistic-Features/files/13456954/Capstone.Project.Viva.Presentation.Slides.-.shorter.pdf)
 
 
 ## Enhanced TweepFake dataset <a name="Dataset"></a> 
