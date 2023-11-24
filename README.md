@@ -20,8 +20,7 @@ Sunway City, Selangor, Malaysia
 
 **[Link to Published Paper in IEEE](https://ieeexplore.ieee.org/abstract/document/10295100)**
 
-Presentation Slides
-
+**[Link to Presentation Slides](https://github.com/Alicia2203/Detection-of-DeepFake-Text-with-Semantic-Emoji-Sentiment-and-Linguistic-Features/files/13456954/Capstone.Project.Viva.Presentation.Slides.-.shorter.pdf)**
 ---
 ## Contents
 1. [Abstract](#Abstract)  
@@ -34,10 +33,7 @@ Detecting machine-generated text (MGT), also known as Deepfake text, has become 
 **Model Schema**
 ![Model Shema 2](https://github.com/Alicia2203/Detection-of-DeepFake-Text-with-Semantic-Emoji-Sentiment-and-Linguistic-Features/assets/69787181/3024d47b-01ab-4201-a111-7c43a8495c42)
 
-**Presentation Slides**
-[Viva Presentation Slides](https://github.com/Alicia2203/Detection-of-DeepFake-Text-with-Semantic-Emoji-Sentiment-and-Linguistic-Features/files/13456954/Capstone.Project.Viva.Presentation.Slides.-.shorter.pdf)
-
-
+---
 ## Enhanced TweepFake dataset <a name="Dataset"></a> 
 TweepFake dataset (but updated in 2023)
 
